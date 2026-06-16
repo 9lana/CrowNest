@@ -1,0 +1,6 @@
+{
+  "name": "Maritime Voyage Dashboard",
+  "description": "A tactical nautical voyage planner and forum dashboard to sail the independent web.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
